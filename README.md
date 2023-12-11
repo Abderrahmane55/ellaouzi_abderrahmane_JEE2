@@ -2,6 +2,7 @@
 #  JEE Activities Encadrant : Professeur Mohamed YOUSSFI 
 
 
+
 ## Activity 1 :
 
 - https://github.com/Abderrahmane55/ellaouzi_abderrahmane_JEE2/tree/main/activ1
@@ -16,8 +17,8 @@
 
 ## Activity 4 :
 
-- https://github.com/Abderrahmane55/ellaouzi_abderrahmane_JEE/tree/main/jpa-ap2%20secured
+- https://github.com/Abderrahmane55/ellaouzi_abderrahmane_JEE/blob/main/ms-ac4/README.md
 
 ## Activity 5 :
 
-- https://github.com/Abderrahmane55/ellaouzi_abderrahmane_JEE/tree/main/ebanking-backend
+- https://github.com/Abderrahmane55/ellaouzi_abderrahmane_JEE2/tree/main/emsi-app#readme
