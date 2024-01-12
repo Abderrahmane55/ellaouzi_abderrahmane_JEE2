@@ -1,5 +1,5 @@
 # Activite 6 : KAFKA et Event Driven Architecture
-  # encadrant : Mohamed YOUSSFI
+
 
 
 Part1 :
