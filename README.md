@@ -22,3 +22,7 @@
 ## Activity 5 :
 
 - https://github.com/Abderrahmane55/ellaouzi_abderrahmane_JEE2/tree/main/emsi-app#readme
+  
+## Activity 6 :
+
+- https://github.com/Abderrahmane55/ellaouzi_abderrahmane_JEE2/tree/main/emsi-app#readme
