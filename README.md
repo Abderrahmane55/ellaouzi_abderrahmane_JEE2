@@ -26,3 +26,6 @@
 ## Activity 6 :
 
 - https://github.com/Abderrahmane55/ellaouzi_abderrahmane_JEE2/tree/main/spring-cloud-streams-functions-kafka
+
+## Activity 7 :
+- https://github.com/Abderrahmane55/ellaouzi_abderrahmane_JEE2/blob/main/Keycloak%2023/README.md
