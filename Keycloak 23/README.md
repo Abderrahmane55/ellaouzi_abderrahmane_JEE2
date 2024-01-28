@@ -5,9 +5,11 @@
 # Sécuriser les microservices Spring et les applications Angular à l'aide d'Oauth2 OIDC avec Keycloak
 
 
-run kc + create admin:
+Run kc :
 
 ![22](https://github.com/Abderrahmane55/ellaouzi_abderrahmane_JEE2/assets/107000262/1399d645-a6b7-4fe4-80de-ab61f874fa6e)
+
+ Create admin kc :
 
 ![kc admin login 1](https://github.com/Abderrahmane55/ellaouzi_abderrahmane_JEE2/assets/107000262/5f5bbbb9-024b-4c22-8c00-bfc03c17eae7)
 
