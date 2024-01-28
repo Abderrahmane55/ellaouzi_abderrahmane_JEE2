@@ -1,10 +1,10 @@
-#Abderrahmane Ellaouzi G41 2022/2023
+# Abderrahmane Ellaouzi G41 
 
 
-#JEE Activities Encadrant : Professeur Mohamed YOUSSFI
+# JEE Activities Encadrant : Professeur Mohamed YOUSSFI
 
-
-#CONTROLE
+# Activite 5 :
+# CONTROLE
 
 
 
