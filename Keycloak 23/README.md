@@ -110,15 +110,10 @@ interface Login:
 ![300222393-6aa94f19-6c43-4928-bd3f-c3c7c830324c](https://github.com/Abderrahmane55/ellaouzi_abderrahmane_JEE2/assets/107000262/bc89155d-90d3-4063-83c1-43ca3bb6d4cb)
 
 
-Login avec le compte Github :
-
-
-
-
-
 
 La liste des clients (localhost:8090/customers):
 
+![300224782-5d9b4827-693b-4756-8134-39f50d6cf11f](https://github.com/Abderrahmane55/ellaouzi_abderrahmane_JEE2/assets/107000262/b7823f9b-0fe2-4c11-b9bd-6c911f77d2fb)
 
 
 
@@ -126,25 +121,30 @@ La liste des clients (localhost:8090/customers):
 La liste des produits (localhost:8090/products):
 
 
+![300224800-87074344-2477-4b57-b505-31c032feb6e9](https://github.com/Abderrahmane55/ellaouzi_abderrahmane_JEE2/assets/107000262/66a4bcda-836b-4a40-80f5-0e9e7762b08f)
 
 
-Set require SSL to none:
+Set require SSL set (none):
 
+![300222519-0965b7c1-d3af-40ce-8831-3641b3dcd68e](https://github.com/Abderrahmane55/ellaouzi_abderrahmane_JEE2/assets/107000262/30c79199-ebd5-4f91-951f-6f2fbdc7546b)
 
 
 Configuration du client glsid-bdcc-customer-client
 
+![300222541-8c30abbc-13a5-421e-a1f1-4c2e02fc3a41](https://github.com/Abderrahmane55/ellaouzi_abderrahmane_JEE2/assets/107000262/98b70075-4721-4e04-bce0-15fef5a51ff0)
 
 
 
 La liste des clients (localhost:4200/customers):
 
 
+![300224800-87074344-2477-4b57-b505-31c032feb6e9](https://github.com/Abderrahmane55/ellaouzi_abderrahmane_JEE2/assets/107000262/bafd15aa-d01e-4328-9724-1df582a8ab97)
 
 
 
 La liste des produits (localhost:4200/products) :
 
 
+![300224800-87074344-2477-4b57-b505-31c032feb6e9](https://github.com/Abderrahmane55/ellaouzi_abderrahmane_JEE2/assets/107000262/d769b2f4-0cdb-4cd6-8192-13602eea54d5)
 
 
